@@ -1,0 +1,31 @@
+/**
+ * CUSTOM CSS
+ *
+ * Here you can add your custom CSS code.
+ */
+.orcid-icon {
+    background: url('../images/logos/orcid-icon.png') transparent no-repeat;
+    background-size: 20px 20px;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin: auto;
+    vertical-align: middle;
+}
+
+.researchgate-icon {
+    background: url('../images/logos/researchgate-icon.png') no-repeat;
+    background-size: 20px 20px;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin: auto;
+    vertical-align: middle;
+}
+.normalcase {
+    text-transform: none;
+}
+.uppercase {
+	text-transform: uppercase;
+}
+/*# sourceMappingURL=custom.css.map */

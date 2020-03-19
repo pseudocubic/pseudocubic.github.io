@@ -1,0 +1,1012 @@
+{
+  "address": "Los Alamos, NM",
+  "affiliations": {
+    "items": [
+      {
+        "description": "member",
+        "name": "Neutron Scattering Society",
+        "url": "http://www.neutronscattering.org"
+      },
+      {
+        "description": "member",
+        "name": "American Physical Society",
+        "url": "http://www.aps.org"
+      },
+      {
+        "description": "member",
+        "name": "American Crystallographic Association",
+        "url": "http://www.amercrystalassn.org"
+      },
+      {
+        "description": "member",
+        "name": "National Postdoc Association",
+        "url": "http://www.nationalpostdoc.org"
+      },
+      {
+        "description": "member, Los Alamos National Lab",
+        "name": "Los Alamos Postdoc Association",
+        "url": "http://www.lanl.gov/careers/career-options/postdoctoral-research/postdoc-association/index.php"
+      },
+      {
+        "description": "member",
+        "name": "National Society of Collegiate Scholars",
+        "url": "http://www.nscs.org"
+      },
+      {
+        "description": "former member, Brookhaven National Lab",
+        "name": "Association of Students and Postdocs",
+        "url": "https://www.bnl.gov/asap/"
+      },
+      {
+        "description": "former member, Tulane University",
+        "name": "Society of Physics Students",
+        "url": "http://www.spsnational.org/"
+      }
+    ],
+    "tagline": ""
+  },
+  "awards": {
+    "items": [
+      {
+        "description": "For development of Severe Contingency Solver (Los Alamos National Laboratory Team)",
+        "name": "R&D 100 Award (2019)"
+      },
+      {
+        "description": "Critical Infrastructure Optimization Team at Los Alamos National Laboratory",
+        "name": "Distinguished Performance Award (2019)"
+      },
+      {
+        "description": "Awarded to 30 applicants per year, only 5-10 for domestic travel.",
+        "name": "Institute for Complex Adaptive Matter (ICAM) Junior Scientist Travel Award (2010)"
+      },
+      {
+        "description": "Travel award to present my research at the 2009 APS March Meeting.",
+        "name": "Provost's Office Graduate Student Travel Fund, Tulane University (2009)"
+      },
+      {
+        "description": "560 young scientists selected (only 50 from the US) out of 20,000 applicants",
+        "name": "58th Meeting of Nobel Laureates at Lindau: Physics, Attendee (2008)"
+      },
+      {
+        "description": "Graduate Studeis support. One award out of approx. 15 incoming graduate applicants in Physics.",
+        "name": "Louisiana Board of Regents Graduate Fellowship Grant (2006-2010)"
+      },
+      {
+        "description": "Offered to students in their first two years with a 3.4 GPA or greater, and are within the top 20% of their class.",
+        "name": "National Society of Collegiate Scholars (2003)"
+      }
+    ],
+    "tagline": ""
+  },
+  "blog_url": "blog",
+  "contact_tagline": "",
+  "education": {
+    "items": [
+      {
+        "degree": "Doctor of Philosophy (Ph.D.) in Physics",
+        "description": [
+          "Dissertation: 'Orbital dependence of magnetism in layered ruthenate systems'",
+          "Advisor: Zhiqiang Mao"
+        ],
+        "location": "New Orleans, LA",
+        "start": "2006",
+        "stop": "2010",
+        "university": "Tulane University"
+      },
+      {
+        "degree": "Bachelor of Science (B.Sc.) in Physics, Math",
+        "description": [],
+        "location": "New Orleans, LA",
+        "start": "2002",
+        "stop": "2006",
+        "university": "Tulane University"
+      }
+    ],
+    "tagline": ""
+  },
+  "email": "dfobes@lanl.gov",
+  "experience": {
+    "items": [
+      {
+        "company": "Los Alamos National Laboratory",
+        "description": "Scientist in the Information Systems and Modeling Group (A-1)",
+        "location": "Los Alamos, NM",
+        "start": "2018",
+        "stop": "present",
+        "title": "R&D Scientist"
+      },
+      {
+        "company": "Los Alamos National Laboratory",
+        "description": "Investigation of the magnetism dynamics of heavy fermion compounds and skyrmion materials using neutron spectroscopy, discovering an intimate connection between the modulated magnetic states of CeRhIn5 and its high nematic susceptibility, and making the first measurements of the spin excitation spectra of skyrmion compound MnSi via neutron Time of Flight spectroscopy. Also designed and successfully tested a versatile new uniaxial strain device for use in small angle neutron scattering",
+        "location": "Los Alamos, NM",
+        "start": "2015",
+        "stop": "2018",
+        "title": "Postdoc Research Associate"
+      },
+      {
+        "company": "Brookhaven National Laboratory",
+        "description": "Study of the lattice dynamics in the iron chalcogenide superconducting family Fe(1+y)Te(1-x)Se(x) using neutron scattering, finding evidence for an orbital ordering transition in parent compound FeTe, appearing as a Bond-Order-Wave, and for an intimate coupling between magnetic fluctuations and the lattice degree of freedom resulting in the appearance of a \"forbidden\" phonon. Also participated in the comissioning of a hybrid spectrometer (HYSPEC) at Oak Ridge National Lab's Spallation Neutron Source, and began developement of NeutronPy",
+        "location": "Upton, NY",
+        "start": "2012",
+        "stop": "2015",
+        "title": "Research Associate"
+      },
+      {
+        "company": "Tulane University",
+        "description": "Investigation of the superconductivity as a function of excess-Fe content in iron chalcogenide superconductor family Fe(1+y)Te(1-x)Se(x) via materials synthesis, bulk characterization techniques, and neutron scattering",
+        "location": "New Orleans, LA",
+        "start": "2010",
+        "stop": "2012",
+        "title": "Postdoctoral Research Fellow"
+      },
+      {
+        "company": "Tulane University",
+        "description": "Study of the orbital physics of layered strontium ruthenates, uncovering the orbital-selective nature of the metamagnetism in Sr4Ru3O10, unusual switching behavior in Ca3Ru2O7, and showing the viability for bolometric detection of Ca2RuO4",
+        "location": "New Orleans, LA",
+        "start": "2006",
+        "stop": "2010",
+        "title": "Graduate Research Assistant"
+      },
+      {
+        "company": "Tulane University",
+        "description": "Floating zone single crystal synthesis of layered perovskite ruthenates of the Ruddlesden-Popper series, focusing on studying the effects of dopants such as Ca for Sr, and Ti for Ru",
+        "location": "New Orleans, LA",
+        "start": "2004",
+        "stop": "2006",
+        "title": "Undergraduate Research Assistant"
+      }
+    ],
+    "tagline": ""
+  },
+  "expertise": {
+    "items": [
+      {
+        "description": "Using a number of different Time of Flight and Thermal/Cold Triple Axis instruments at Oak Ridge National Laboratory's Spallation Neutron Source (SNS) and High-Flux Isotope Reactor (HFIR), NIST's Center for Neutron Research reactor (NCNR), Helmholtz-Zentrum Berlin (BER-II),  Forschungs-Neutronenquelle Heinz Maier-Leibnitz (FRM-II) and the STFC Rutherford Appleton Laboratory",
+        "name": "Neutron Scattering"
+      },
+      {
+        "description": "Materials sythesis of strongly correlated electron materials, such as complex layered oxides, iron chalcogenides, non-centrosymmetric intermetallics, and heavy fermion compounds. Using optical floating zone method with an imaging furnace, flux method, vapor transport method, Bridgman method, Czochralski method, and thermal evaporation of thin films",
+        "name": "Single Crystal Synthesis"
+      },
+      {
+        "description": "Experience with polarized neutron scattering incl. spherical polarimetry with CRYOPAD and a variety of polarizers/analyzers incl. Heusler, supermirror and 3He cells",
+        "name": "Polarized Neutron Scattering"
+      },
+      {
+        "description": "Using a variety of methods including resistivity, heat capacity, magnetization and ac susceptibility, neutron and x-ray diffraction (XRD)",
+        "name": "Sample characterization"
+      },
+      {
+        "description": "Using laboratory X-ray diffractometers, including powder and single crystal x-ray diffraction for sample characterization and structure analysis and Laue X-ray diffraction for determination of sample orientation",
+        "name": "X-ray diffraction"
+      },
+      {
+        "description": "Experience with using a variety of sample environments incl. superconducting magnets, 3He cryostats, and closed-cycle refrigerators, and custom sample holder design.",
+        "name": "Cryogenic Sample Environments"
+      },
+      {
+        "description": "Modeling and data analysis and production of publication/presentation quality figures, development of a custom python library for neutron scattering data analysis (NeutronPy), and instrument control and custom automated measurement program design",
+        "name": "Software Development"
+      },
+      {
+        "description": "Using such techniques as scanning electron microscopy (SEM), Energy-dispersive X-ray spectroscopy (EDXS), scanning tunneling microscopy (STM), low energy electron diffraction (LEED), X-ray photoemission spectroscopy (XPS) and angle resolved photoemission spectroscopy (ARPES).",
+        "name": "Surface Science"
+      }
+    ],
+    "tagline": ""
+  },
+  "first_name": "David M",
+  "github_username": "pseudocubic",
+  "grants": {
+    "items": [
+      {
+        "description": "Authored and co-authored 66 successful proposals for neutron beam time at various international and domestic neutron sources since 2012, with an acceptance rate of more than 95%. The corresponding allocated beam time consists of of 336 days, which corresponds to approximately $6,720,000 in third party funding, where neutron beam time is typical estimated to cost in excess of ~20,000/day.",
+        "name": "Neutron Beam Time"
+      },
+      {
+        "description": "Framework for On-Demand Cloud Computation of Theoretical Models of Materials over Discretized Phase Volumes",
+        "name": "ISTI Rapid Response G&A 2018 Cloud Computing"
+      }
+    ],
+    "tagline": ""
+  },
+  "intro": {
+    "bio": [
+      "I received my PhD in Physics from Tulane University where, as a Louisiana Board of Regents Graduate Fellow, I     \t             studied the effects of chemical substitution on strongly correlated electron materials using advanced     \t\t     materials synthesis techniques.",
+      "Shortly thereafter I joined the Neutron Scattering Group in CMPMSD at Brookhaven National Laboratory, where I                      investigated the lattice dynamics in iron-based superconductors using neutron spectroscopy, and assisted in the                      development of a new scattering instrument at Oak Ridge National Lab, HYSPEC. As a former member of MPA-CMMS                      at Los Alamos National Lab, I am used neutrons to study how magnetic frustration and anisotropy affect                      emergent phases observed near superconductivity, and the spin dynamics of skyrmion lattices.",
+      "My work has generated considerable impact in my field; my more than thirty publications, appearing in journals                     such as Nature Physics, Nature Materials, and Nature Communications, have already been cited nearly six hundred times. My                     broader research interests include the complex role of magnetic interactions in quantum materials, which have                     the potential for future functionality, and machine learning for materials research.",
+      "I currently work in the Information Systems and Modeling (A-1) Group at Los Alamos National Laboratory (LANL), working \t\t    on Power Grid and optimization problems."
+    ],
+    "tagline": ""
+  },
+  "last_name": "Fobes",
+  "linkedin_id": "david-fobes-9b925071",
+  "orcid": "0000-0001-8252-2061",
+  "phone": "505.665.7130",
+  "position_location": "Los Alamos National Laboratory",
+  "position_title": "Information Systems & Modeling",
+  "presentations": {
+    "items": [
+      {
+        "conference": "American Conference on Neutron Scattering",
+        "date": "25 June 2018",
+        "location": "College Park, Maryland",
+        "title": "Spin excitations of the skyrmion lattice in MnSi",
+        "type": "Invited talk"
+      },
+      {
+        "conference": "Skyrmionics: Materials, Phenomena and Applications",
+        "date": "9 August 2017",
+        "location": "Santa Fe, New Mexico",
+        "title": "Spin excitations of the skyrmion lattice in MnSi",
+        "type": "Invited talk"
+      },
+      {
+        "conference": "International Conference on Strongly Correlated Electron Systems (SCES)",
+        "date": "17-21 July 2017",
+        "location": "Prague, Czech Republic",
+        "title": "Magnetic frustration in a prototypical strongly correlated metal",
+        "type": "Poster"
+      },
+      {
+        "conference": "International Conference on Neutron Scattering (ICNS)",
+        "date": "9-13 July 2017",
+        "location": "Daejeon, South Korea",
+        "title": "Magnetic frustration in a prototypical strongly correlated metal",
+        "type": "Contributed talk"
+      },
+      {
+        "conference": "Science in '3'",
+        "date": "7 June 2017",
+        "location": "Los Alamos National Laboratory, Los Alamos, NM",
+        "title": "Emerging Electronic Order from Frustrated Magnetism",
+        "type": "Contributed talk"
+      },
+      {
+        "conference": "APS March Meeting",
+        "date": "14 March 2017",
+        "location": "New Orleans, LA",
+        "title": "Magnetic frustration in a prototypical strongly correlated electron system",
+        "type": "Contributed talk"
+      },
+      {
+        "conference": "LDRD External Project Review",
+        "date": "11 January 2016",
+        "location": "Los Alamos National Laboratory, Los Alamos, NM",
+        "title": "Neutron spectroscopy investigation of skyrmion lattice materials"
+      },
+      {
+        "conference": "Triennial DOE-BES-MSE Review",
+        "date": "2 November 2016",
+        "location": "Los Alamos National Laboratory, Los Alamos, NM",
+        "title": "Neutron Spectroscopy Studies of CeRhIn5",
+        "type": "Poster"
+      },
+      {
+        "conference": "American Conference on Neutron Scattering",
+        "date": "11 July 2016",
+        "location": "Long Beach, CA",
+        "title": "Magnetic frustration induced by applied magnetic field in CeRhIn5",
+        "type": "Contributed talk"
+      },
+      {
+        "conference": "APS March Meeting",
+        "date": "14 March 2016",
+        "location": "Baltimore, MD",
+        "title": "Spin wave spectrum of CeRhIn5 under applied magnetic field",
+        "type": "Contributed talk"
+      },
+      {
+        "conference": "APS March Meeting",
+        "date": "4 March 2015",
+        "location": "San Antonio, TX",
+        "title": "\"Forbidden\" phonon in the iron chalcogenide series",
+        "type": "Contributed talk"
+      },
+      {
+        "conference": "Young Researcher Symposium",
+        "date": "20 November, 2014",
+        "location": "Brookhaven National Laboratory, Upton, NY",
+        "title": "Ferro-orbital order and unexpected phonon scattering in the iron chalcogenide superconductor family",
+        "type": "Poster"
+      },
+      {
+        "conference": "Los Alamos National Laboratory",
+        "date": "12 November 2014",
+        "location": "Los Alamos, NM",
+        "title": "Ferro-orbital order and 'forbidden' phonons in the iron chalcogenides",
+        "type": "Invited talk"
+      },
+      {
+        "conference": "Louisiana State University",
+        "date": "9 November 2014",
+        "location": "Baton Rouge, LA",
+        "title": "Ferro-orbital order and an unexpected phonon mode in the iron chalcogenide superconductor family",
+        "type": "Invited talk"
+      },
+      {
+        "conference": "American Conference on Neutron Scattering",
+        "date": "4 June 2014",
+        "location": "Knoxville, TN",
+        "title": "Observation of an acoustic mode potentially driven by an imbalance between the magnetic moments of neighboring Fe atoms in Fe(1-x)Te (y < 0.12)",
+        "type": "Contributed talk"
+      },
+      {
+        "conference": "Oak Ridge National Laboratory",
+        "date": "14 May 2014",
+        "location": "Oak Ridge, TN",
+        "title": "Bond order wave formation and an unexpected acoustic mode in iron-chalcogenide end-member Fe(1+y)Te revealed by neutron scattering studies",
+        "type": "Invited Seminar"
+      },
+      {
+        "conference": "APS March Meeting",
+        "date": "5 March 2014",
+        "location": "Denver, CO",
+        "title": "Observation of acoustic-phonon-like mode driven by magnetic imbalance between neighboring Fe atoms in Fe(1+y)Te (y<0.12)",
+        "type": "Contributed talk"
+      },
+      {
+        "conference": "QCMD Seminar Series at Oak Ridge National Laboratory",
+        "date": "25 February 2014",
+        "location": "Oak Ridge, TN",
+        "title": "Neutron scattering studies of the effects of non-stoichiometric interstitial Fe in iron-chalcogenide end-member Fe(1+y)Te",
+        "type": "Invited talk"
+      },
+      {
+        "conference": "APS March Meeting",
+        "date": "19 March 2013",
+        "location": "Baltimore, MD",
+        "title": "Unconventional (pi, pi) order in Fe1.1Te",
+        "type": "Contributed talk"
+      },
+      {
+        "conference": "APS March Meeting",
+        "date": "28 February 2012",
+        "location": "Boston, MA",
+        "title": "Anisotropy of magnetoresistivities in Sr3Ru2O7: Evidence for orbital-dependent metamagnetism",
+        "type": "Contributed talk"
+      },
+      {
+        "conference": "Brookhaven National Laboratory",
+        "date": "13 October 2011",
+        "location": "Upton, NY",
+        "title": "Exotic phenomena in strongly correlated layered ruthenates",
+        "type": "Invited Colloquium"
+      },
+      {
+        "conference": "Oak Ridge National Laboratory",
+        "date": "23 September 2011",
+        "location": "Oak Ridge, TN",
+        "title": "Exotic phenomena in strongly correlated layered ruthenates",
+        "type": "Invited Colloquium"
+      },
+      {
+        "conference": "Lawrence Livermore National Laboratory",
+        "date": "22 June 2011",
+        "location": "Livermore, CA",
+        "title": "Exotic phenomena in strongly correlated layered ruthenates",
+        "type": "Invited Colloquium"
+      },
+      {
+        "conference": "APS March Meeting",
+        "date": "23 March 2011",
+        "location": "Dallas, TX",
+        "title": "Metastable Magnetic states in Ca3Ru2O7",
+        "type": "Contributed talk"
+      },
+      {
+        "conference": "Tulane University",
+        "date": "8 July 2010",
+        "location": "New Orleans, LA",
+        "title": "Orbital dependence of magnetism in layered ruthenate systems",
+        "type": "Dissertation Defense"
+      },
+      {
+        "conference": "APS March Meeting",
+        "date": "19 March 2010",
+        "location": "Portland, OR",
+        "title": "Anisotropic magnetic coupling in Ca3Ru2O7 probed by angle resolved magnetotransport",
+        "type": "Contributed talk"
+      },
+      {
+        "conference": "Tulane University",
+        "date": "15 September 2009",
+        "location": "New Orleans, LA",
+        "title": "Orbital Physics in Layered Ruthenates",
+        "type": "Invited Colloquium"
+      },
+      {
+        "conference": "Tulane University",
+        "date": "21 May 2009",
+        "location": "New Orleans, LA",
+        "title": "Probing the orbital dependence of magnetic phenomena in layered ruthenate systems",
+        "type": "Prospectus Defense"
+      },
+      {
+        "conference": "APS March Meeting",
+        "date": "19 March 2009",
+        "location": "Pittsburgh, PA",
+        "title": "Probing orbital-dependent magnetism in layered perovskite ruthenates through angle-dependent magnetoresistivity",
+        "type": "Contributed talk"
+      },
+      {
+        "conference": "APS March Meeting",
+        "date": "14 March 2008",
+        "location": "New Orleans, LA",
+        "title": "Anisotropy of magnetoresistivity in trilayered ruthenate Sr4Ru3O10: Evidence for orbital dependent metamagnetism",
+        "type": "Contributed talk"
+      },
+      {
+        "conference": "APS March Meeting",
+        "date": "5 March 2007",
+        "location": "Denver, CO",
+        "title": "Competing magnetic fluctuations in Sr3Ru2O7 probed by Ti doping",
+        "type": "Contributed talk"
+      },
+      {
+        "conference": "Tulane University",
+        "date": "10 April 2006",
+        "location": "New Orleans, LA",
+        "title": "Approximate solutions to the heat equation over coated domains",
+        "type": "Seminar"
+      }
+    ],
+    "tagline": [
+      "Invited: 11",
+      "Contributed: 21"
+    ]
+  },
+  "publications": {
+    "items": [
+      {
+        "authors": "D. M. Fobes, S. Zhang, S.-Z. Lin, P. Das, N. J. Ghimire, E. D. Bauer, J. D. Thompson, L. W. Harriger, G. Ehlers, A. Podlesnyak, R. I. Bewley, A. Sazonov, V. Hutanu, F. Ronning, C. D. Batista, and M. Janoschek",
+        "doi": "10.1038/s41567-018-0060-9",
+        "journal": "Nature Physics",
+        "page": "456",
+        "title": "Tunable Emergent Heterostructures in a Prototypical Correlated Metal",
+        "volume": "14",
+        "year": 2018
+      },
+      {
+        "authors": "Y. Luo, S.-Z. Lin, D. M. Fobes, Z. Liu, E. D. Bauer, J. B. Betts, A. Migliori, J. D. Thompson, M. Janoschek, and B. Maiorov",
+        "doi": "10.1103/PhysRevB.97.104423",
+        "journal": "Phys. Rev. B",
+        "page": "104423",
+        "title": "Anisotropic magnetocrystalline coupling of the skyrmion lattice in MnSi",
+        "volume": "97",
+        "year": "2018"
+      },
+      {
+        "authors": "Y. Luo, S.-Z. Lin, M. Leroux, N. Wakeham, D. M. Fobes, E. D. Bauer, J. B. Betts, J. D. Thompson, A. Migliori, M. Janoschek, B. Maiorov",
+        "journal": "arXiv:1711.08873 [cond-mat.str-el] (submitted to PNAS)",
+        "title": "Elasticity in the skyrmion phase unveils depinning at ultra-low current densities",
+        "url": "https://arxiv.org/abs/1711.08873",
+        "year": "2017"
+      },
+      {
+        "authors": "D. M. Fobes, S.-Z. Lin, N. J. Ghimire, E. D. Bauer, J. D. Thompson, M. Bleuel, L. M. DeBeer-Schmitt, and M. Janoschek",
+        "doi": "10.1103/PhysRevB.96.174413",
+        "journal": "Physical Review B",
+        "page": "174413",
+        "title": "Realization of the Axial Next-Nearest-Neighbor Ising model in U3Al2Ge3",
+        "volume": "96",
+        "year": 2017
+      },
+      {
+        "authors": "D. M. Fobes, M. Janoschek",
+        "journal": "Institute of Physics: JPhys+",
+        "title": "Solving quantum riddles with neutron scattering",
+        "url": "https://jphysplus.iop.org/2017/05/16/solving-quantum-riddles-with-neutron-scattering/",
+        "year": 2017
+      },
+      {
+        "authors": "D. M. Fobes, Y. Luo, N. Leon, E. D. Bauer, V. R. Fanelli, M. A. Taylor, L. M. DeBeer-Schmitt, and M. Janoschek",
+        "doi": "10.1063/1.4983473",
+        "journal": "Applied Physics Letters",
+        "page": 192409,
+        "title": "Versatile Strain-Tuning of Modulated Long-Period Magnetic Structures",
+        "volume": "110",
+        "year": 2017
+      },
+      {
+        "authors": "D. Halwidl, W. Mayr-Schm\u00f6lzer, D. Fobes, J. Peng, Z. Q\\. Mao, M. Schmid, F. Mittendorfer, J. Redinger, and U. Diebold",
+        "doi": "10.1038/s41467-017-00066-w",
+        "journal": "Nature Communications",
+        "page": 23,
+        "title": "Ordered hydroxyls on Ca3Ru2O7(001)",
+        "volume": 8,
+        "year": 2017
+      },
+      {
+        "authors": "D. M. Fobes, E. D. Bauer, J. D. Thompson, A. Sazonov, V. Hutanu, F. Ronning, and M. Janoschek",
+        "citations": 1,
+        "doi": "10.1088/1361-648X/aa6696",
+        "journal": "Journal of Physics: Condensed Matter",
+        "page": "17LT01",
+        "title": "Low temperature magnetic structure of CeRhIn5 by neutron diffraction on absorption-optimized samples",
+        "volume": 29,
+        "year": 2017
+      },
+      {
+        "authors": "D. Fobes, I. A. Zaliznyak, J. M. Tranquada, Z. Xu, G. Gu, X.-G. He, W. Ku, Y. Zhao, M. Matsuda, V. Garlea, and B. Winn",
+        "doi": "10.1103/PhysRevB.94.121103",
+        "journal": "Physical Review B",
+        "page": "121103(R)",
+        "title": "Forbidden phonon: Dynamical signature of bond symmetry breaking in the iron chalcogenides",
+        "volume": 94,
+        "year": 2016
+      },
+      {
+        "authors": "D. Halwidl, B. St\u00f6ger, W. Mayr-Schm\u00f6lzer, J. Pavelec , D. M. Fobes, J. Peng, Z. Q. Mao, G. Parkinson, M. Schmid, F. Mittendorfer, J. Redinger, and U. Diebold",
+        "citations": 8,
+        "doi": "10.1038/NMAT4512",
+        "journal": "Nature Materials",
+        "page": 450,
+        "title": "Adsorption of Water at the SrO Surface of Ruthenates",
+        "volume": 15,
+        "year": 2015
+      },
+      {
+        "authors": "B. St\u00f6ger, M. Hieckel, F. Mittendorfer, Z. Wang, M. Schmid, G. S. Parkinson, D. M. Fobes, J. Peng, J. E. Ortmann, A. Limbeck, Z. Q. Mao, J. Redinger, and U. Diebold",
+        "citations": 5,
+        "doi": "10.1103/PhysRevB.90.165438",
+        "journal": "Physical Review B",
+        "page": 165438,
+        "title": "Point Defects at Cleaved Sr(n+1)Ru(n)O(3n+1) (001) Surfaces",
+        "volume": 90,
+        "year": 2014
+      },
+      {
+        "authors": "B. St\u00f6ger, M. Hieckel, F. Mittendorfer, Z. Wang, D. Fobes, J. Peng, Z. Q. Mao, M. Schmid, J. Redinger, and U. Diebold",
+        "citations": 7,
+        "doi": "10.1103/PhysRevLett.113.116101",
+        "journal": "Physical Review Letters",
+        "page": 116101,
+        "title": "High chemical activity of a perovskite surface: Reaction of CO with Sr3Ru2O7",
+        "volume": 113,
+        "year": 2014
+      },
+      {
+        "authors": "R. Bliem, R. Kosak, L. Perneczky, Z. Novotny, O. Gamba, D. Fobes, Z. Q. Mao, M. Schmid, U. Diebold, P. Blaha, and G. S. Parkinson",
+        "citations": 12,
+        "doi": "10.1021/nn502895s",
+        "journal": "ACS Nano",
+        "page": 7531,
+        "title": "Cluster Nucleation and Growth from a Highly Supersaturated Adatom Phase: Silver on Magnetite",
+        "volume": 8,
+        "year": 2014
+      },
+      {
+        "authors": "D. Fobes, I. A. Zaliznyak, Z. Xu, R. Zhong, G. Gu, J. M. Tranquada, L. Harriger, D. Singh, O. Garlea, M. Lumsden, and B. Winn",
+        "citations": 17,
+        "doi": "10.1103/PhysRevLett.112.187202",
+        "journal": "Physical Review Letters",
+        "page": 187202,
+        "title": "Ferro-Orbital Ordering Transition in Iron Telluride Fe(1+y)Te",
+        "volume": 112,
+        "year": 2014
+      },
+      {
+        "authors": "Y. A. Ying, N. E. Staley, Y. Xin, K. Sun, X. Cai, D. Fobes, T. J. Liu, Z. Q. Mao, and Y. Liu",
+        "citations": 15,
+        "doi": "10.1038/ncomms3596",
+        "journal": "Nature Communications",
+        "page": 2596,
+        "title": "Enhanced spin-triplet superconductivity near dislocations in Sr2RuO4",
+        "volume": 4,
+        "year": 2013
+      },
+      {
+        "authors": "J. Peng, X. Ke, G. C. Wang, J. E. Ortmann, D. Fobes, T. Hong, W. Tian, X. S. Wu, and Z. Q. Mao",
+        "citations": 7,
+        "doi": "10.1103/PhysRevB.87.085125",
+        "journal": "Physical Review B",
+        "page": "085125",
+        "title": "From quasi-two-dimensional metal with ferromagnetic bilayers to Mott insulator with G-type antiferromagnetic order in Ca3(Ru(1-x)Ti(x))2O7",
+        "volume": 87,
+        "year": 2013
+      },
+      {
+        "authors": "X. Cai, Y. A. Ying, N. E. Staley, Y. Xin, D. Fobes, T. J. Liu, Z. Q. Mao, and Y. Liu",
+        "citations": 8,
+        "doi": "10.1103/PhysRevB.87.081104",
+        "journal": "Physical Review B",
+        "page": "081104",
+        "title": "Unconventional quantum oscillations in mesoscopic rings of spin-triplet superconductor Sr2RuO4",
+        "volume": 87,
+        "year": 2013
+      },
+      {
+        "authors": "Z. Qu, J. Peng, T. J. Liu, D. Fobes, V. Dobrosavljevic, L. Spinu, and Z. Q. Mao",
+        "citations": 4,
+        "doi": "10.1103/PhysRevB.86.014434",
+        "journal": "Physical Review B",
+        "page": "014434",
+        "title": "Effect of disorder on quantum phase transition in the double layered ruthenates (Sr(1-x)Ca(x))3Ru2O7",
+        "volume": 86,
+        "year": 2012
+      },
+      {
+        "authors": "B. Qian, J. Lee, J. Hu, G. C. Wang, P. Kumar, M. H. Fang, T. J. Liu, D. Fobes, H. Pham, L. Spinu, X. S. Wu, M. Green, S. H. Lee, and Z. Q. Mao",
+        "citations": 9,
+        "doi": "10.1103/PhysRevB.85.144427",
+        "journal": "Physical Review B",
+        "page": 144427,
+        "title": "Ferromagnetism in CuFeSb: Evidence of competing magnetic interactions in iron-based superconductors",
+        "volume": 85,
+        "year": 2012
+      },
+      {
+        "authors": "D. Fobes, E. Vehstedt, G. C. Wang, T. J. Liu, Z. Q. Mao",
+        "citations": 2,
+        "doi": "10.1063/1.4704387",
+        "journal": "Journal of Applied Physics",
+        "page": "083709",
+        "title": "Metal-insulator transition in doped Ca2RuO4: potential application in bolometric detection",
+        "volume": 111,
+        "year": 2012
+      },
+      {
+        "authors": "V. Thampy, J. Kang, J. A. Rodriguez-Rivera, W. Bao, A. T. Savici, J. Hu, T. J. Liu, B. Qian, D. Fobes, Z. Q. Mao, C. B. Fu, W. C. Chen, Q. Ye, R. W. Erwin, T. R. Gentile, Z. Tesanovic, and C. Broholm",
+        "citations": 30,
+        "doi": "10.1103/PhysRevLett.108.107002",
+        "journal": "Physical Review Letters",
+        "page": 107002,
+        "title": "Friedel-like Oscillations from Interstitial Iron in Superconducting Fe(1+y)Te0.62Se0.38",
+        "volume": 108,
+        "year": 2012
+      },
+      {
+        "authors": "D. Fobes, J. Peng, Z. Qu, T. J. Liu, and Z. Q. Mao",
+        "citations": 3,
+        "doi": "10.1103/PhysRevB.84.014406",
+        "journal": "Phys. Rev. B",
+        "page": "014406",
+        "title": "Magnetic phase transitions and bulk spin-valve effect tuned by in-plane field orientation in Ca3Ru2O7",
+        "volume": 84,
+        "year": 2011
+      },
+      {
+        "authors": "T. J. Liu, J. Hu, B. Qian, D. M. Fobes, Z. Q. Mao, W. Bao, M. Reehuis, S. A. J. Kimber, K. Prokes, S. Matas, D. N. Argyriou, A. Hiess, A. Rotaru, H. Pham, L. Spinu, Y. Qiu, V. Thampy, A. T. Savici, J. A. Rodriguez, and C. Broholm",
+        "citations": 176,
+        "doi": "10.1038/NMAT2800",
+        "journal": "Nature Materials",
+        "page": 716,
+        "title": "From (pi, 0) magnetic order to superconductivity with (pi,pi) magnetic resonance in Fe1.02(Te(1-x)Se(x))",
+        "volume": 9,
+        "year": 2010
+      },
+      {
+        "authors": "J. Peng, Z. Qu, B. Qian, D. Fobes, T. J. Liu, X. Wu, H. M. Pham, L. Spinu, and Z. Q. Mao",
+        "citations": 14,
+        "doi": "10.1103/PhysRevB.82.024417",
+        "journal": "Physical Review B",
+        "page": "024417",
+        "title": "Interplay between the lattice and spin degrees of freedom in (Sr(1-x)Ca(x))3Ru2O7",
+        "volume": 82,
+        "year": 2010
+      },
+      {
+        "authors": "D. Fobes, T. J. Liu, Z. Qu, H. Q. Yuan, M. Salamon, M. Zhou, J. Hooper, and Z. Q. Mao",
+        "citations": 10,
+        "doi": "10.1103/PhysRevB.81.172402",
+        "journal": "Physical Review B",
+        "page": 172402,
+        "title": "Anisotropy of magnetoresistivities in Sr4Ru3O10: Evidence for an orbital-selective metamagnetic transition",
+        "volume": 81,
+        "year": 2010
+      },
+      {
+        "authors": "H. Guo, Y. Li, D. Urbina, B. Hu, R. Jin, T. Liu, D. Fobes, Z. Q. Mao, E. W. Plummer, and J. Zhang",
+        "citations": 6,
+        "doi": "10.1103/PhysRevB.81.155121",
+        "journal": "Physical Review B",
+        "page": 155121,
+        "title": "Doping and dimensionality effects on the core-level spectra of layered ruthenates",
+        "volume": 81,
+        "year": 2010
+      },
+      {
+        "authors": "Y. A. Ying, Y. Xin, B. W. Clouser, E. Hao, N. E. Staley, R. J. Myers, L. F. Allard, D. Fobes, T. Liu, Z. Q. Mao, and Y. Liu",
+        "citations": 16,
+        "doi": "10.1103/PhysRevLett.103.247004",
+        "journal": "Physical Review Letters",
+        "page": 247004,
+        "title": "Suppression of Proximity Effect and the Enhancement of p-Wave Superconductivity in the Sr2RuO4-Ru System",
+        "volume": 103,
+        "year": 2009
+      },
+      {
+        "authors": "T. J. Liu, X. Ke, B. Qian, J. Hu, D. M. Fobes, E. K. Vehstedt, H. Pham, J. H. Yang, M. H. Fang, L. Spinu, P. Schiffer, Y. Liu, Z. Q. Mao",
+        "citations": 159,
+        "doi": "10.1103/PhysRevB.80.174509",
+        "journal": "Physical Review B",
+        "page": 174509,
+        "title": "Charge carrier localization induced by excess Fe in the superconductor Fe(1+y)Te(1-x)Se(x)",
+        "volume": 80,
+        "year": 2009
+      },
+      {
+        "authors": "Z. Qu, J. Peng, T. J. Liu, D. Fobes, L. Spinu, and Z. Q. Mao",
+        "citations": 10,
+        "doi": "10.1103/PhysRevB.80.115130",
+        "journal": "Physical Review B",
+        "page": 115130,
+        "title": "Complex electronic states in double-layered ruthenates (Sr(1-x)Ca(x))3Ru2O7",
+        "volume": 80,
+        "year": 2009
+      },
+      {
+        "authors": "Y. Nakajima, Y. Matsumoto, D. Fobes, M. Zhou, Z. Q. Mao, and T. Tamegai",
+        "citations": 4,
+        "doi": "10.1088/1742-6596/150/4/042134",
+        "journal": "Journal of Physics Conference Series",
+        "page": "042134",
+        "title": "Real-space observation of magnetic domain structure at metamagnetic tansition in a triple-layer ruthenate Sr4Ru3O10",
+        "volume": 150,
+        "year": 2009
+      },
+      {
+        "authors": "Z. Qu, L. Spinu, H. Yuan, V. Dobrosavljevi\u0107, W. Bao, J. W. Lynn, M. Nicklas, J. Peng, T. Liu, D. Fobes, E. Flesch, and Z. Q. Mao",
+        "citations": 23,
+        "doi": "10.1103/PhysRevB.78.180407",
+        "journal": "Physical Review B",
+        "page": "180407(R)",
+        "title": "Unusual heavy-mass nearly ferromagnetic state with a surprisingly large Wilson ratio in the double layered ruthenates (Sr(1-x)Ca(x))3Ru2O7",
+        "volume": 78,
+        "year": 2008
+      },
+      {
+        "authors": "X. Xu, Z. Xu, T. Liu, D. Fobes, Z. Mao, Y. Liu",
+        "citations": 9,
+        "doi": "10.1103/PhysRevLett.101.057002",
+        "journal": "Physical Review Letters",
+        "page": "057002",
+        "title": "Band-Dependent Normal-State Coherence in Sr2RuO4: Evidence from Nernst Effect and Thermopower Measurements",
+        "volume": 101,
+        "year": 2008
+      },
+      {
+        "authors": "Z. Xu, X. Xu, R. Freitas, Z. Long, M. Zhou, D. Fobes, M. Fang, P. Schiffer, Z. Mao, and Y. Liu",
+        "citations": 9,
+        "doi": "10.1103/PhysRevB.76.094405",
+        "journal": "Physical Review B",
+        "page": "094405",
+        "title": "Magnetic, electrical transport, and thermoelectric properties of Sr4Ru3O10: Evidence for a field-induced electronic phase transition at low temperatures",
+        "volume": 76,
+        "year": 2007
+      },
+      {
+        "authors": "D. Fobes, M. H. Yu, M. Zhou, J. Hooper, C. J. O'Connor, M. Rosario, and Z. Q. Mao",
+        "citations": 13,
+        "doi": "10.1103/PhysRevB.75.094429",
+        "journal": "Physical Review B",
+        "page": "094429",
+        "title": "Phase diagram of the electronic states of trilayered ruthenate Sr4Ru3O10",
+        "volume": 75,
+        "year": 2007
+      },
+      {
+        "authors": "J. Hooper, M. H. Fang, M. Zhou, D. Fobes, N. Dang, Z. Q. Mao, C. M. Feng, Z. A. Xu, M. H. Yu, C. J. O'Connor, G. J. Xu, N. Andersen, and M. Salamon",
+        "citations": 8,
+        "doi": "10.1103/PhysRevB.75.060403",
+        "journal": "Physical Review B",
+        "page": "060403(R)",
+        "title": "Competing magnetic fluctuations in Sr3Ru2O7 probed by Ti doping",
+        "volume": 75,
+        "year": 2007
+      },
+      {
+        "authors": "M. Zhou, J. Hooper, D. Fobes, Z. Q. Mao, V. Golubb and C. J. O'Connor",
+        "citations": 15,
+        "doi": "10.1016/j.materresbull.2005.03.004",
+        "journal": "Materials Research Bulletin",
+        "page": 942,
+        "title": "Electronic and magnetic properties of triple-layered ruthenate Sr4Ru3O10 single crystals grown by a floating-zone method",
+        "volume": 40,
+        "year": 2005
+      }
+    ],
+    "tagline": [
+      "h-index: 13",
+      "Publications: 36",
+      "Citations: 667",
+      "(Web of Science)"
+    ]
+  },
+  "researchgate_id": "David_Fobes",
+  "service": {
+    "items": [
+      {
+        "description": "Python Library for the analysis of neutron scattering data, including algorithms for instrument resolution convolution.",
+        "icon": "fa-github-alt",
+        "name": "neutronpy",
+        "url": "https://github.com/neutronpy/neutronpy"
+      },
+      {
+        "description": "Peer Reviewer of neutron beam time proposals at the NIST Center for Neutron Research (NCNR)",
+        "icon": "fa-diamond",
+        "name": "Proposal Peer Reviewer"
+      },
+      {
+        "description": "Reviewer for Physical Review Letters, Physical Review B, Journal of Applied Physics, and Superconductor Science and Technology",
+        "icon": "fa-newspaper-o",
+        "name": "Journal Peer Reviewer"
+      },
+      {
+        "description": "Session Chair at the American Conference on Neutron Scattering (ACNS) 2016",
+        "icon": "fa-user-o",
+        "name": "Session Chair"
+      },
+      {
+        "description": "Contributor to open-source software projects on GitHub, including NumPy, Matplotlib, and lmfit",
+        "icon": "fa-github-alt",
+        "name": "Open-Source Contributor",
+        "url": "https://github.com/pseudocubic"
+      },
+      {
+        "description": "Contributor to Stackoverflow.com, answering questions about Python",
+        "icon": "fa-stack-overflow",
+        "name": "StackOverflow Contributor",
+        "url": "https://stackoverflow.com/users/2414588/pseudocubic"
+      },
+      {
+        "description": "Organized events at Tulane in during the World Year of Physics (2005)",
+        "icon": "fa-university",
+        "name": "Event Organizer",
+        "url": "http://tulane.edu"
+      },
+      {
+        "description": "Conducted lab tours at Tulane for prospective students and local primary school students",
+        "icon": "fa-university",
+        "name": "Lab Tour Guide",
+        "url": "http://tulane.edu"
+      }
+    ],
+    "tagline": ""
+  },
+  "skills": {
+    "items": [
+      {
+        "name": "Python",
+        "value": 95
+      },
+      {
+        "name": "numpy",
+        "value": 95
+      },
+      {
+        "name": "scipy",
+        "value": 85
+      },
+      {
+        "name": "matplotlib",
+        "value": 95
+      },
+      {
+        "name": "Julia",
+        "value": 95
+      },
+      {
+        "name": "Matlab",
+        "value": 85
+      },
+      {
+        "name": "Mathematica",
+        "value": 75
+      },
+      {
+        "name": "IDL",
+        "value": 75
+      },
+      {
+        "name": "LabView",
+        "value": 70
+      },
+      {
+        "name": "C",
+        "value": 60
+      },
+      {
+        "name": "C++",
+        "value": 55
+      },
+      {
+        "name": "git",
+        "value": 95
+      },
+      {
+        "name": "MacOS",
+        "value": 95
+      },
+      {
+        "name": "Windows",
+        "value": 75
+      },
+      {
+        "name": "*nix",
+        "value": 95
+      },
+      {
+        "name": "LaTeX",
+        "value": 90
+      },
+      {
+        "name": "OriginPro",
+        "value": 70
+      },
+      {
+        "name": "Rust",
+        "value": 10
+      },
+      {
+        "name": "Ruby",
+        "value": 40
+      },
+      {
+        "name": "Javascript",
+        "value": 40
+      }
+    ],
+    "tagline": ""
+  },
+  "teaching": {
+    "items": [
+      {
+        "course": "Introduction to Python for Data Analysis and Visualization",
+        "description": "Designed and taught a course on introductory Python to members of MPA-CMMS at LANL.",
+        "location": "Los Alamos National Laboratory",
+        "role": "Instructor",
+        "start": "Jan 2017",
+        "stop": "Apr 2017"
+      },
+      {
+        "course": "Modern Physics",
+        "description": "Provided private tutoring services for undergraduates in the introductory Modern Physics course",
+        "location": "Tulane University",
+        "role": "Private Tutor",
+        "start": "Aug 2008",
+        "stop": "Dec 2008"
+      },
+      {
+        "course": "Introduction to Thermodynamics",
+        "description": "Provided private tutoring services for undergraduates in the introductory Thermodynamics course",
+        "location": "Tulane University",
+        "role": "Private Tutor",
+        "start": "Aug 2008",
+        "stop": "Dec 2008"
+      },
+      {
+        "course": "Partial Differential Equations",
+        "description": "Provided private tutoring services for undergraduates in the Partial Differential Equations course",
+        "location": "Tulane University",
+        "role": "Private Tutor",
+        "start": "Aug 2008",
+        "stop": "Dec 2008"
+      },
+      {
+        "course": "General Physics",
+        "description": "Provided tutoring services for students of the undergraduate General Physics course",
+        "location": "Tulane Unversity",
+        "role": "Private Tutor",
+        "start": "Jan 2008",
+        "stop": "May 2008"
+      },
+      {
+        "course": "General Physics",
+        "description": "Provided tutoring services for students of the undergraduate General Physics course",
+        "location": "Rutgers Unversity",
+        "role": "Private Tutor",
+        "start": "Sept 2005",
+        "stop": "Dec 2005"
+      }
+    ],
+    "tagline": [
+      "Students Supervised:",
+      "Graduate: 4",
+      "Undergraduate: 2"
+    ]
+  },
+  "twitter_username": "drpseudocubic",
+  "website_url": "pseudocubic.com"
+}
