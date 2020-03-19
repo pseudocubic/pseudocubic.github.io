@@ -1,0 +1,26 @@
+items:
+  - company: Los Alamos National Laboratory
+    description: Scientist in the Information Systems and Modeling Group (A-1)
+    location: Los Alamos, NM
+    start: "2018"
+    stop: present
+    title: R&D Scientist
+  - company: Los Alamos National Laboratory
+    description: Investigation of the magnetism dynamics of heavy fermion compounds and skyrmion materials using neutron spectroscopy, discovering an intimate connection between the modulated magnetic states of CeRhIn5 and its high nematic susceptibility, and making the first measurements of the spin excitation spectra of skyrmion compound MnSi via neutron Time of Flight spectroscopy. Also designed and successfully tested a versatile new uniaxial strain device for use in small angle neutron scattering
+    location: Los Alamos, NM
+    start: "2015"
+    stop: "2018"
+    title: Postdoc Research Associate
+  - company: Brookhaven National Laboratory
+    description: Study of the lattice dynamics in the iron chalcogenide superconducting family Fe(1+y)Te(1-x)Se(x) using neutron scattering, finding evidence for an orbital ordering transition in parent compound FeTe, appearing as a Bond-Order-Wave, and for an intimate coupling between magnetic fluctuations and the lattice degree of freedom resulting in the appearance of a "forbidden" phonon. Also participated in the comissioning of a hybrid spectrometer (HYSPEC) at Oak Ridge National Lab's Spallation Neutron Source, and began developement of NeutronPy
+    location: Upton, NY
+    start: "2012"
+    stop: "2015"
+    title: Research Associate
+  - company: Tulane University
+    description: Investigation of the superconductivity as a function of excess-Fe content in iron chalcogenide superconductor family Fe(1+y)Te(1-x)Se(x) via materials synthesis, bulk characterization techniques, and neutron scattering
+    location: New Orleans, LA
+    start: "2010"
+    stop: "2012"
+    title: Postdoctoral Research Fellow
+tagline: ""

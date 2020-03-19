@@ -1,0 +1,102 @@
+items:
+  - conference: 2021 INFORMS Annual Meeting
+    date: 26 October 2021
+    location: Anaheim, CA
+    title: 'PowerModels: A Framework for Exploring Power Flow Formulations'
+    type: Contributed talk
+  - conference: JuliaCon 2021
+    date: 21 July 2021
+    location: Virtual
+    title: Unbalanced Power Flow Optimization with PowerModelsDistribution
+    type: Contributed talk
+  - conference: 2020 INFORMS Annual Meeting
+    date: 10 November 2020
+    location: Virtual
+    title: 'PowerModelsDistribution.jl: Exploring Optimal Power Flow In Distribution Networks'
+    type: Contributed talk
+  - conference: Power Systems Computation Conference 2020
+    date: 1 July 2020
+    location: Virtual
+    title: 'PowerModelsDistribution.jl: An open-source framework for exploring distribution power flow formulation'
+    type: Contributed talk
+  - conference: American Conference on Neutron Scattering
+    date: 25 June 2018
+    location: College Park, Maryland
+    title: Spin excitations of the skyrmion lattice in MnSi
+    type: Invited talk
+  - conference: International Conference on Strongly Correlated Electron Systems (SCES)
+    date: 17-21 July 2017
+    location: Prague, Czech Republic
+    title: Magnetic frustration in a prototypical strongly correlated metal
+    type: Poster
+  - conference: International Conference on Neutron Scattering (ICNS)
+    date: 9-13 July 2017
+    location: Daejeon, South Korea
+    title: Magnetic frustration in a prototypical strongly correlated metal
+    type: Contributed talk
+  - conference: APS March Meeting
+    date: 14 March 2017
+    location: New Orleans, LA
+    title: Magnetic frustration in a prototypical strongly correlated electron system
+    type: Contributed talk
+  - conference: American Conference on Neutron Scattering
+    date: 11 July 2016
+    location: Long Beach, CA
+    title: Magnetic frustration induced by applied magnetic field in CeRhIn5
+    type: Contributed talk
+  - conference: APS March Meeting
+    date: 14 March 2016
+    location: Baltimore, MD
+    title: Spin wave spectrum of CeRhIn5 under applied magnetic field
+    type: Contributed talk
+  - conference: APS March Meeting
+    date: 4 March 2015
+    location: San Antonio, TX
+    title: '"Forbidden" phonon in the iron chalcogenide series'
+    type: Contributed talk
+  - conference: American Conference on Neutron Scattering
+    date: 4 June 2014
+    location: Knoxville, TN
+    title: Observation of an acoustic mode potentially driven by an imbalance between the magnetic moments of neighboring Fe atoms in Fe(1-x)Te (y < 0.12)
+    type: Contributed talk
+  - conference: APS March Meeting
+    date: 5 March 2014
+    location: Denver, CO
+    title: Observation of acoustic-phonon-like mode driven by magnetic imbalance between neighboring Fe atoms in Fe(1+y)Te (y<0.12)
+    type: Contributed talk
+  - conference: APS March Meeting
+    date: 19 March 2013
+    location: Baltimore, MD
+    title: Unconventional (pi, pi) order in Fe1.1Te
+    type: Contributed talk
+  - conference: APS March Meeting
+    date: 28 February 2012
+    location: Boston, MA
+    title: 'Anisotropy of magnetoresistivities in Sr3Ru2O7: Evidence for orbital-dependent metamagnetism'
+    type: Contributed talk
+  - conference: APS March Meeting
+    date: 23 March 2011
+    location: Dallas, TX
+    title: Metastable Magnetic states in Ca3Ru2O7
+    type: Contributed talk
+  - conference: APS March Meeting
+    date: 19 March 2010
+    location: Portland, OR
+    title: Anisotropic magnetic coupling in Ca3Ru2O7 probed by angle resolved magnetotransport
+    type: Contributed talk
+  - conference: APS March Meeting
+    date: 19 March 2009
+    location: Pittsburgh, PA
+    title: Probing orbital-dependent magnetism in layered perovskite ruthenates through angle-dependent magnetoresistivity
+    type: Contributed talk
+  - conference: APS March Meeting
+    date: 14 March 2008
+    location: New Orleans, LA
+    title: 'Anisotropy of magnetoresistivity in trilayered ruthenate Sr4Ru3O10: Evidence for orbital dependent metamagnetism'
+    type: Contributed talk
+  - conference: APS March Meeting
+    date: 5 March 2007
+    location: Denver, CO
+    title: Competing magnetic fluctuations in Sr3Ru2O7 probed by Ti doping
+    type: Contributed talk
+tagline: ""

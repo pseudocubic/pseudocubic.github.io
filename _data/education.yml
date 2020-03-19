@@ -1,0 +1,16 @@
+items:
+  - degree: Doctor of Philosophy (Ph.D.) in Physics
+    description:
+      - 'Dissertation: ''Orbital dependence of magnetism in layered ruthenate systems'''
+      - 'Advisor: Zhiqiang Mao'
+    location: New Orleans, LA
+    start: "2006"
+    stop: "2010"
+    university: Tulane University
+  - degree: Bachelor of Science (B.Sc.) in Physics, Math
+    description: []
+    location: New Orleans, LA
+    start: "2002"
+    stop: "2006"
+    university: Tulane University
+tagline: ""

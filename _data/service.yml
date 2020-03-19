@@ -1,0 +1,6 @@
+items:
+  - description: Python Library for the analysis of neutron scattering data, including algorithms for instrument resolution convolution.
+    icon: fa-github-alt
+    name: neutronpy
+    url: https://github.com/neutronpy/neutronpy
+tagline: ""
