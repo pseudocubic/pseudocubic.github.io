@@ -4,8 +4,9 @@ items:
     journal: Energies
     title: 'On the Feasibility of Market Manipulation and Energy Storage Arbitrage via Load‑Altering Attacks'
     volume: '16'
+    page: "1670"
     year: 2023
-  - authors: uan Ospina, David M. Fobes, Russell Bent, Andreas Wächter
+  - authors: Juan Ospina, David M. Fobes, Russell Bent, Andreas Wächter
     doi: 10.1109/TPWRS.2023.3234725
     journal: IEEE Transactions on Power Systems
     title: 'Modeling and Rapid Prototyping of Integrated Transmission‑Distribution OPF Formulations with PowerModelsITD.jl'
