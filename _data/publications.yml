@@ -1,4 +1,20 @@
 items:
+  - authors: Juan Ospina, David M. Fobes, Russell Bent
+    doi: 10.3390/en16041670
+    journal: Energies
+    title: 'On the Feasibility of Market Manipulation and Energy Storage Arbitrage via Load‑Altering Attacks'
+    volume: '16'
+    year: 2023
+  - authors: uan Ospina, David M. Fobes, Russell Bent, Andreas Wächter
+    doi: 10.1109/TPWRS.2023.3234725
+    journal: IEEE Transactions on Power Systems
+    title: 'Modeling and Rapid Prototyping of Integrated Transmission‑Distribution OPF Formulations with PowerModelsITD.jl'
+    year: 2023
+  - authors: David M Fobes, Harsha Nagarajan, Russell Bent
+    doi: 10.1109/TSG.2022.3208508
+    journal: IEEE Transactions on Smart Grid
+    title: 'Optimal Microgrid Networking for Maximal Load Delivery in Phase Unbalanced Distribution Grids: A Declarative Modeling Approach'
+    year: 2022
   - authors: T. Weber, D. M. Fobes, J. Waizner, P. Steffens, G. S. Tucker, M. Böhm, L. Beddrich, C. Franz, H. Gabold, R. Bewley, D. Voneshen, M. Skoulatos, R. Georgii, G. Ehlers, A. Bauer, C. Pfleiderer, P. Böni, M. Janoschek, M. Garst
     doi: 10.1126/science.abe4441
     journal: Science
