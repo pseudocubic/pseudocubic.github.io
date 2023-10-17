@@ -1,0 +1,26 @@
+{
+  "dependencies": {},
+  "description": "Font Awesome",
+  "devDependencies": {},
+  "homepage": "http://fontawesome.io",
+  "ignore": [
+    "*/.*",
+    "*.json",
+    "src",
+    "*.yml",
+    "Gemfile",
+    "Gemfile.lock",
+    "*.md"
+  ],
+  "keywords": [],
+  "license": [
+    "OFL-1.1",
+    "MIT",
+    "CC-BY-3.0"
+  ],
+  "main": [
+    "less/font-awesome.less",
+    "scss/font-awesome.scss"
+  ],
+  "name": "font-awesome"
+}
