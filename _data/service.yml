@@ -1,4 +1,12 @@
 items:
+  - description: Julia Library for the restoration and control of distribution feeders with microgrids or distributed energy resources (DERs).
+    icon: fa-github-alt
+    name: PowerModelsONM.jl
+    url: https://github.com/lanl-ansi/PowerModelsONM.jl
+  - description: Julia Library for the optimization of phase unbalanced distribution feeders.
+    icon: fa-github-alt
+    name: PowerModelsDistribution.jl
+    url: https://github.com/lanl-ansi/PowerModelsDistribution.jl
   - description: Python Library for the analysis of neutron scattering data, including algorithms for instrument resolution convolution.
     icon: fa-github-alt
     name: neutronpy
