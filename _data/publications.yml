@@ -1,4 +1,11 @@
 items:
+  - authors: D. M. Fobes, R. Bent, R. Jain, F. Flores-Espino, A. Pratt, R. Mahoney, G. Walker, D. Pinney, T. Patel, M. J. Reno
+    doi: 10.1049/icp.2023.1073
+    journal: 27th International Conference on Electricity Distribution (CIRED 2023)
+    title: 'Quantifying resiliency benefits of networked microgrids using PowerModelsONM.jl'
+    volume: "2023"
+    page: "1919"
+    year: 2023
   - authors: Juan Ospina, David M. Fobes, Russell Bent
     doi: 10.3390/en16041670
     journal: Energies
