@@ -1,4 +1,14 @@
 items:
+  - conference: 'IEEE PES General Meeting 2023'
+    date: 18 July 2023
+    location: Orlando, FL
+    title: 'Optimal Microgrid Networking for Maximal Load Delivery in Phase Unbalanced Distribution Grids: A Declarative Modeling Approach'
+    type: Contributed talk
+  - conference: 'CIRED 2023: International Conference & Exhibition on Electricity Distribution'
+    date: 15 June 2023
+    location: Rome, Italy
+    title: 'Quantifying Resiliency Benefits of Networked Microgrids using PowerModelsONM.jl'
+    type: Contributed talk
   - conference: 2022 INFORMS Annual Meeting
     date: 17 October 2022
     location: Indianappolis, IN
