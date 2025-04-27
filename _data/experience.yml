@@ -1,10 +1,16 @@
 items:
   - company: Los Alamos National Laboratory
+    description: Deputy Group Leader of the Information Systems & Modeling Group (A-1)
+    location: Los Alamos, NM
+    start: "2024"
+    stop: present
+    title: R&D Manager
+  - company: Los Alamos National Laboratory
     description: Scientist in the Information Systems and Modeling Group (A-1)
     location: Los Alamos, NM
     start: "2018"
-    stop: present
-    title: R&D Scientist
+    stop: "2024"
+    title: Scientist
   - company: Los Alamos National Laboratory
     description: Investigation of the magnetism dynamics of heavy fermion compounds and skyrmion materials using neutron spectroscopy, discovering an intimate connection between the modulated magnetic states of CeRhIn5 and its high nematic susceptibility, and making the first measurements of the spin excitation spectra of skyrmion compound MnSi via neutron Time of Flight spectroscopy. Also designed and successfully tested a versatile new uniaxial strain device for use in small angle neutron scattering
     location: Los Alamos, NM
